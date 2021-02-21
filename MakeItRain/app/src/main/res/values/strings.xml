@@ -3,5 +3,6 @@
     <string name="you_have">You Have:</string>
     <string name="make_it_rain">Make It Rain</string>
     <string name="show_info">Show Info</string>
-    <string name="money_value">$2000</string>
+    <string name="money_value">$0</string>
+    <string name="test">HelloWorld</string>
 </resources>
